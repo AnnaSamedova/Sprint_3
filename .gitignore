@@ -1,0 +1,8 @@
+env
+.pytest_cache
+tests/.pytest_cache
+tests/tests.py
+main.py
+.idea
+__pycache__/
+*.py[cod]
